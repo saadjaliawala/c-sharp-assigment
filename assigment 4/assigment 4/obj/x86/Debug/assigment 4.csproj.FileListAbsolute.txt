@@ -1,0 +1,4 @@
+c:\users\hp\documents\visual studio 2010\Projects\assigment 4\assigment 4\bin\Debug\assigment 4.exe
+c:\users\hp\documents\visual studio 2010\Projects\assigment 4\assigment 4\bin\Debug\assigment 4.pdb
+c:\users\hp\documents\visual studio 2010\Projects\assigment 4\assigment 4\obj\x86\Debug\assigment 4.exe
+c:\users\hp\documents\visual studio 2010\Projects\assigment 4\assigment 4\obj\x86\Debug\assigment 4.pdb
